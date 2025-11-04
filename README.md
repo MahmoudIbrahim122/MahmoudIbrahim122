@@ -1,9 +1,5 @@
 # i,m Mahmoud Ibrahim ✨
 
-<p align="center">
-  <img src="https://github.com/MahmoudIbrahim122.png" alt="Mahmoud Ibrahim" width="180" style="border-radius:50%;">
-</p>
-
 I'm a hardworking and curious software developer who loves building things and improving continuously. I enjoy writing clean, maintainable code and exploring the latest in artificial intelligence to create practical, impactful solutions. 🚀🤖
 
 ## What I Do 💼
