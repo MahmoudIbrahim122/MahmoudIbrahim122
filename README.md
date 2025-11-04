@@ -1,4 +1,4 @@
-# IM Mahmoud Ibrahim ✨
+# i,m Mahmoud Ibrahim ✨
 
 <p align="center">
   <img src="https://github.com/MahmoudIbrahim122.png" alt="Mahmoud Ibrahim" width="180" style="border-radius:50%;">
