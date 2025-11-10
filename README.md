@@ -2,6 +2,16 @@
 
 I'm a hardworking and curious software developer who loves building things and improving continuously. I enjoy writing clean, maintainable code and exploring the latest in artificial intelligence to create practical, impactful solutions. 🚀🤖
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRadoan&show_icons=true&theme=dark)
+
+## 🔥 أكثر اللغات استخداماً
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRadoan&layout=compact&theme=dark)
+
+
 ## What I Do 💼
 
 - Build reliable and well-tested software applications. 🧩
